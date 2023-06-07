@@ -1,8 +1,5 @@
 #### _"내일도 개발하자"_ 😄
 ## _For a better tomorrow_
-
-
----
 # 💪Skills
 ### Language 
 > ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/c-000000.svg?&style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/c++-000000.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
